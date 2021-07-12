@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,SAEI,2BAA4B,CAC5B,UAAW,CACX,OAAQ,CACR,kCAA4B,CAA5B,0BACJ","file":"main.b14d41a0.chunk.css","sourcesContent":[".btn-top{\r\n\r\n    position: absolute!important;\r\n    right: 15px;\r\n    top: 50%;\r\n    transform: translate(0,-50%);\r\n}"]}
